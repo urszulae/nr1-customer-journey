@@ -2,7 +2,7 @@ const journeyConfig = [
   {
     id: 0,
     title: 'Demo Journey 1',
-    accountId: 2298998,
+    accountId: 2330614,
     funnel: {
       event: 'PageView',
       measure: 'session'
